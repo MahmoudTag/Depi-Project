@@ -14,8 +14,8 @@ This project aims to develop a predictive model for identifying successful Medic
 - **Presentation (`Data Science Project Presentaion.pptx`)**  
   The presentation highlights key findings and visualizations, intended for stakeholders or team members. It covers the project’s objectives, methodology, insights, and recommendations.
 
-- **Report (`report.pdf`)**  
+- **Report (`Project Report.pdf`)**  
   A detailed document that explains the project’s data analysis, modeling process, and results. It includes charts, model performance metrics, and in-depth insights into predictive factors.
 
-- **Proposal (`proposal.pdf`)**  
+- **Proposal (`Project Proposal.pdf`)**  
   This proposal outlines the project's scope, objectives, and methodology. It is designed for initial project planning and stakeholder review.
